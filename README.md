@@ -23,7 +23,7 @@
 * **JavaScript:** Adiciona interatividade à página, permitindo a busca por locomotivas.
 
 ### **Como Usar**
-   **Você pode escolher como acessar!
+Você pode escolher como acessar!
 1. **Acesse o link do Vercel:**
    ```bash
    link versio
